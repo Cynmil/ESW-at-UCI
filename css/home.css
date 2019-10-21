@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+}
+
+nav {
+  background-image: linear-gradient(to right, rgba(144, 250, 123, 0.877), rgb(241, 255, 235));
+}
+
+nav ul a {
+  color:	#484848;
+  font-family: Arial;
+}
+
+nav ul a .active{
+  background-color: rgba(253, 164, 31, 0.59);
+}
+
+.nav-wrapper .brand-logo img {
+  height: 64px;
+}
+
+.grow { transition: all .2s ease-in-out; }
+
+.grow:hover { transform: scale(1.1); }
+
+.divider {
+  flex-grow: 1;
+  border-bottom: 1px solid brown;
+  margin: 2px;
+}
+
+#head {
+  background-image: url("../img/background.jpg");
+}
+
+.card-title {
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 1px 1px rgb(49, 47, 47);
+}

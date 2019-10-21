@@ -1,0 +1,47 @@
+[
+  {
+    "role": "President",
+    "name": "Adam Robert",
+    "img": "Adam.webp"
+  },
+  {
+    "role": "VP Internal",
+    "name": "Emily Barragan",
+    "img": "Emily.webp"
+  },
+  {
+    "role": "VP External",
+    "name": "Nicole Alvarez"
+  },
+  {
+    "role": "Publicity Relation",
+    "name": "Makayla Campbell",
+    "img": "Makayla.webp"
+  },
+  {
+    "role": "Secretary",
+    "name": "Octavio Altamirano",
+    "img": "Octavio.webp"
+  },
+  {
+    "role": "Fundraising Chair",
+    "name": "Jyeshna Rajan",
+    "img": "Jyeshna.webp"
+  },
+  {
+    "role": "Webmaster",
+    "name": "Vi Duong"
+  },
+  {
+    "role": "VP External",
+    "name": "Yash Agrawal"
+  },
+  {
+    "role": "VP Internal",
+    "name": "Brandon Chan"
+  },
+  {
+    "role": "Project Managers",
+    "name": "Liam Edwards"
+  }
+]

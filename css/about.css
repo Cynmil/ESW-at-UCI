@@ -1,0 +1,12 @@
+.card-content{
+  text-align: center;
+  background-color: rgba(106, 162, 184, 1); 
+}
+
+.member {
+  visibility: hidden;
+}
+
+.animated {
+  visibility: visible !important;
+}
