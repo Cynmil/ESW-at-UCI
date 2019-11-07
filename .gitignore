@@ -6,6 +6,9 @@
 # resource folder
 rsrc/*
 
+# secret folder (send email to hyunkok1@uci.edu to request the secret folder)
+secret/*
+
 # User-specific files
 *.suo
 *.user
